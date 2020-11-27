@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+body{
+  background-color:  #ffb399;
+}
+
 .btn-block{
     border-radius: 2px;
      display: inline-block;
