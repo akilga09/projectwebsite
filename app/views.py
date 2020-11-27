@@ -22,7 +22,7 @@ def login():
     return render_template('login.html', error=error)
 
 
-@app.route('/videostream')
+@app.route('/videostream', methods=['POST', 'GET'])
 def stream():
     if not session.get('logged_in'):
         abort(401)

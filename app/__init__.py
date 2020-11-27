@@ -6,6 +6,7 @@ PASSWORD = 'password123'
 UPLOAD_FOLDER = 'static/videos'
 SAVED_FOLDER = 'static/videos2'
 
+
 # SECRET_KEY is needed for session security, the flash() method in this case stores the message in a session
 SECRET_KEY = 'Sup3r$3cretkey'
 
