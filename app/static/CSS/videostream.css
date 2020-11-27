@@ -1,8 +1,6 @@
-body {
-             background-color:  #ffb399;
-             background-attachment: fixed;
-             background-size: cover;
-        }
+#changeme {
+   background-color:  #ffb399;
+ }
 
 .overlay {
   height: 100%;
